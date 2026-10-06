@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-  cout<<"p is always mine";
+  cout<<"p is p";
 return 0;
 }
